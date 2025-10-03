@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Newqlia
+- 👋 Hi, I’m @MartinKariuki
 - 👀 I’m interested in Programming ...
 - Coding is my lifestyle 
 - 🌱 I’m currently doing Bachelor in Information Technology at Kabarak Uni
 - 💞️ I’m looking to collaborate with Microsoft,Apple
-- 📫 How to reach me ...My email is martinnewqlia@gmail.com
+- 📫 How to reach me ...My email is martinkagunyi003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
